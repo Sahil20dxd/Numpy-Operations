@@ -4,7 +4,6 @@ It demonstrates reading and summarizing data from a CSV file, as well as visuali
 data dynamically using NumPy and Matplotlib.
 
 Author: Sahil Hirpara
-Student Number: 000889701
 """
 
 import numpy as np
