@@ -1,4 +1,4 @@
-Banknote Authentication - NumPy Operations
+**Banknote Authentication - NumPy Operations**
 
 This project demonstrates the use of NumPy for basic matrix operations, statistics, and data handling using a Banknote Authentication dataset (banknote_data.csv).
 
@@ -9,7 +9,7 @@ Files
 
     banknote_data.csv — CSV file containing data about banknotes, including features like variance, skewness, kurtosis, and entropy.
 
-Project Objective
+**Project Objective**
 
 The main goal is to:
 
